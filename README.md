@@ -2,9 +2,9 @@ Simple chatbot built with Node.js and node-xmpp.
 
 Used the following for XMPP reference:
 
-http://xmpp.org/extensions/xep-0045.html#message
-http://www.adarshr.com/papers/xmpp
-http://www.adarshr.com/papers/xmpp2
+ * http://xmpp.org/extensions/xep-0045.html#message
+ * http://www.adarshr.com/papers/xmpp
+ * http://www.adarshr.com/papers/xmpp2
 
 #Install
 ```
