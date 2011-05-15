@@ -4,7 +4,6 @@
 // This is a really good introductory guide to XMPP:
 //   http://www.adarshr.com/papers/xmpp
 
-require.paths.unshift(__dirname + '/node_modules');
 xmpp = require('node-xmpp');
 sys = require('sys');
 
